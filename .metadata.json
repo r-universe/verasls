@@ -2,9 +2,5 @@
   {
     "package": "impactr",
     "oncran": true
-  },
-  {
-    "package": "lvmisc",
-    "oncran": true
   }
 ]
